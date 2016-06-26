@@ -1,0 +1,44 @@
+PODS:
+  - Armchair (0.1.1)
+  - FloatingActionSheetController (1.1.0)
+  - Google-Mobile-Ads-SDK (7.7.0)
+  - Google/Analytics (2.0.3):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (2.0.3):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.1)
+  - GoogleAnalytics (3.14.0)
+  - GoogleInterchangeUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleNetworkingUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.0)
+  - GoogleUtilities (1.2.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - InAppFw (0.9.3)
+
+DEPENDENCIES:
+  - Armchair
+  - FloatingActionSheetController (~> 1.1)
+  - Google-Mobile-Ads-SDK
+  - Google/Analytics
+  - InAppFw
+
+SPEC CHECKSUMS:
+  Armchair: 276f0dadba704b562870613301bdf7b595a29315
+  FloatingActionSheetController: 229e0cfe96d691b97c91900f9b6d54ece6bf93bd
+  Google: 61379f0072bc561a7e174d23a6cbe41bd6d8599c
+  Google-Mobile-Ads-SDK: d290e523a6e2f223256abcbf8e0c778b55b1f04e
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleInterchangeUtilities: 427382e42d8a340038bec37c6fdfd316e14b5fa2
+  GoogleNetworkingUtilities: ec1e9911aca811eb18b7144394fee6168b607785
+  GoogleSymbolUtilities: eb3965ea12710569c7b80db198a39e39b18613f7
+  GoogleUtilities: 85f8ad6b251544286a97163133d042ec95f889c5
+  InAppFw: 69b8e9a4c2ab94d6d2a43ff709861d006f390948
+
+PODFILE CHECKSUM: 1468e4871605a6e02c257d586c83fc14e9543061
+
+COCOAPODS: 1.0.0.beta.4

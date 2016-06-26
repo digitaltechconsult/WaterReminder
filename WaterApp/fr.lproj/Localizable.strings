@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  WaterApp
+
+  Created by cristina on 19/03/16.
+  Copyright © 2016 BogdanCoticopol. All rights reserved.
+*/
+
+"NEXT_ALARM" = "Prochaine alarme dans ";
+"AND" = "et";
+"LESS_THAN_A_MIN" = "moins d'une minute";
+"HYDRATE_YOUR_BODY" = "Hydratez votre corps régulièrement";
+"TAP_TO_ENABLE_NOTIF" = "Appuyez pour activer les notifications";
+"YOUR_WEIGHT_KG" = "Votre poids (kg):";
+"YOUR_WEIGHT_POUNDS" = "Votre poids (pounds):";
+"FILL_WEIGHT_AND_WORKOUT" = "Veuillez remplir les champs de poids et/ou d'entraînement";
+"CHOOSE_VALID_DATE" = "Veuillez choisir une date valide";
+"AWAKE_LESS_3_HOURS" = "Est-ce-que vous êtes réveillé moins que 3 heures?";
+"ERROR" = "Erreur";
+"NOTIF_MORNING" = "Boire un grand verre d'eau au réveil";
+"NOTIF_LUNCH" = "Boire un verre d'eau avant d'aller déjeuner";
+"NOTIF_NIGHT" = "Ne pas oublier de boire un verre d'eau avand de dormir";
+"NOTIF_DEFAULT" = "Il est temps de boire de l'eau";
+"NOTIF_HEALTH_APP" = "Votre progression d'hydratation est enregistrée dans l'application Health";
+"DRINK" = "Bois";
+"LATER" = "Plus tard";
+"DONATE" = "Faire un don";
+"REMOVE_ADS" = "Vous souhaitez faire un don et de supprimer des annonces ?";
+"RESTORE_PURCHASES" = "estaurer des achats";
+"APP_STORE_ERROR" = "Il y avait une erreur de connexion à l'AppStore. Aucune transaction n'a été faite.";
+"DONATION" = "Je vous remercie pour votre don !";
+"ADS_DISABLED" = "Annonces sont désactivées.";
+"CANCEL" = "Annuler";

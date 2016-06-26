@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "DRINK"; ObjectID = "3Nb-uo-LZF"; */
+"3Nb-uo-LZF.normalTitle" = "BEBER";
+
+/* Class = "UIButton"; normalTitle = "Atras"; ObjectID = "5ME-BB-vHZ"; */
+"5ME-BB-vHZ.normalTitle" = "Atras";
+
+/* Class = "UILabel"; text = "Hora de despertar:"; ObjectID = "D1E-5h-Q1X"; */
+"D1E-5h-Q1X.text" = "Hora de despertar:";
+
+/* Class = "UILabel"; text = "Entrenamiento diario (min):"; ObjectID = "LSp-a6-L1s"; */
+"LSp-a6-L1s.text" = "Entrenamiento diario (min):";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[0] = "Male"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[1] = "Female"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[1]" = "Female";
+
+/* Class = "UILabel"; text = "Hora de comer:"; ObjectID = "bFE-3S-6h9"; */
+"bFE-3S-6h9.text" = "Hora de comer:";
+
+/* Class = "UILabel"; text = "Hora de dormir:"; ObjectID = "bkO-rH-VU4"; */
+"bkO-rH-VU4.text" = "Hora de dormir:";
+
+/* Class = "UILabel"; text = "El genero:"; ObjectID = "f5Y-Jv-b91"; */
+"f5Y-Jv-b91.text" = "El genero:";
+
+/* Class = "UILabel"; text = "Sistema de unidades:"; ObjectID = "jNQ-db-DtX"; */
+"jNQ-db-DtX.text" = "Sistema de unidades:";
+
+/* Class = "UILabel"; text = "Información del usuario"; ObjectID = "lXO-rt-1F7"; */
+"lXO-rt-1F7.text" = "Información del usuario";
+
+/* Class = "UILabel"; text = "Alertas Personalizadas"; ObjectID = "q6Q-uo-pSU"; */
+"q6Q-uo-pSU.text" = "Alertas Personalizadas";
+
+/* Class = "UILabel"; text = "Tu peso (kg):"; ObjectID = "qsl-z6-vGM"; */
+"qsl-z6-vGM.text" = "Tu peso (kg):";
+
+/* Class = "UIButton"; normalTitle = "Siguiente"; ObjectID = "rLD-hc-e5g"; */
+"rLD-hc-e5g.normalTitle" = "Siguiente";
+
+/* Class = "UILabel"; text = "Ajustes"; ObjectID = "s1g-bq-9Mr"; */
+"s1g-bq-9Mr.text" = "Ajustes";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[0] = "Métrico"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[0]" = "Métrico";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[1] = "Imperial"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[1]" = "Imperial";

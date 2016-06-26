@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  WaterApp
+
+  Created by cristina on 19/03/16.
+  Copyright © 2016 BogdanCoticopol. All rights reserved.
+*/
+
+"NEXT_ALARM" = "Următoarea alarmă în ";
+"AND" = "și";
+"LESS_THAN_A_MIN" = "mai puțin de un minut";
+"HYDRATE_YOUR_BODY" = "Hidratează-ţi corpul cu regularitate";
+"TAP_TO_ENABLE_NOTIF" = "Tap pentru a activa notificările";
+"YOUR_WEIGHT_KG" = "Greutate (kg):";
+"YOUR_WEIGHT_POUNDS" = "Greutate (pounds):";
+"FILL_WEIGHT_AND_WORKOUT" = "Vă rugăm să completaţi câmpurile greutate și/sau mișcare zilnică";
+"CHOOSE_VALID_DATE" = "Vă rugăm să alegeţi o dată validă";
+"AWAKE_LESS_3_HOURS" = "Sunteţi treaz mai puţin de 3 ore?";
+"ERROR" = "Eroare";
+"NOTIF_MORNING" = "Bea un pahar cu apă pentru un start fresh";
+"NOTIF_LUNCH" = "Bea un pahar cu apă înainte de masă";
+"NOTIF_NIGHT" = "Nu uita să bei un pahar cu apă înainte să dormi";
+"NOTIF_DEFAULT" = "E timpul să bei apă";
+"NOTIF_HEALTH_APP" = "Nivelul de hidratare este salvat în aplicaţia Health";
+"DRINK" = "Bea";
+"LATER" = "Mai târziu";
+"DONATE" = "Donează";
+"REMOVE_ADS" = "Doriţi să faceţi o donaţie și să dezactivaţi reclamele?";
+"RESTORE_PURCHASES" = "Restaurează cumpărăturile";
+"APP_STORE_ERROR" = "S-a produs o eroare la contactarea AppStore. Tranzacţia nu s-a efectuat.";
+"DONATION" = "Mulţumim pentru donaţie!";
+"ADS_DISABLED" = "Reclamele sunt dezactivate";
+"CANCEL" = "Anulaţi";

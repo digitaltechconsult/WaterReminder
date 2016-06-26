@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "DRINK"; ObjectID = "3Nb-uo-LZF"; */
+"3Nb-uo-LZF.normalTitle" = "BEA";
+
+/* Class = "UIButton"; normalTitle = "Inapoi"; ObjectID = "5ME-BB-vHZ"; */
+"5ME-BB-vHZ.normalTitle" = "Inapoi";
+
+/* Class = "UILabel"; text = "Ora de trezire:"; ObjectID = "D1E-5h-Q1X"; */
+"D1E-5h-Q1X.text" = "Ora de trezire:";
+
+/* Class = "UILabel"; text = "Mișcare zilnică (min):"; ObjectID = "LSp-a6-L1s"; */
+"LSp-a6-L1s.text" = "Mișcare zilnică (min):";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[0] = "Masculin"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[0]" = "Masculin";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[1] = "Feminin"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[1]" = "Feminin";
+
+/* Class = "UILabel"; text = "Ora prânzului:"; ObjectID = "bFE-3S-6h9"; */
+"bFE-3S-6h9.text" = "Ora prânzului:";
+
+/* Class = "UILabel"; text = "Ora de dormit:"; ObjectID = "bkO-rH-VU4"; */
+"bkO-rH-VU4.text" = "Ora de dormit:";
+
+/* Class = "UILabel"; text = "Gen:"; ObjectID = "f5Y-Jv-b91"; */
+"f5Y-Jv-b91.text" = "Gen:";
+
+/* Class = "UILabel"; text = "Unitate de măsură:"; ObjectID = "jNQ-db-DtX"; */
+"jNQ-db-DtX.text" = "Unitate de măsură:";
+
+/* Class = "UILabel"; text = "Informații Utilizator"; ObjectID = "lXO-rt-1F7"; */
+"lXO-rt-1F7.text" = "Informații Utilizator";
+
+/* Class = "UILabel"; text = "Alerte Personalizate"; ObjectID = "q6Q-uo-pSU"; */
+"q6Q-uo-pSU.text" = "Alerte Personalizate";
+
+/* Class = "UILabel"; text = "Greutate (kg):"; ObjectID = "qsl-z6-vGM"; */
+"qsl-z6-vGM.text" = "Greutate (kg):";
+
+/* Class = "UIButton"; normalTitle = "Urmatorul"; ObjectID = "rLD-hc-e5g"; */
+"rLD-hc-e5g.normalTitle" = "Urmatorul";
+
+/* Class = "UILabel"; text = "Setări"; ObjectID = "s1g-bq-9Mr"; */
+"s1g-bq-9Mr.text" = "Setări";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[0] = "Metric"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[0]" = "Metric";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[1] = "Imperial"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[1]" = "Imperial";

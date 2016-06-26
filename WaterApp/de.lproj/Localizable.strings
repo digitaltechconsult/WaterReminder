@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  WaterApp
+
+  Created by cristina on 19/03/16.
+  Copyright © 2016 BogdanCoticopol. All rights reserved.
+*/
+
+"NEXT_ALARM" = "Nächster alarm in ";
+"AND" = "und";
+"LESS_THAN_A_MIN" = "weinger als eine Minute";
+"HYDRATE_YOUR_BODY" = "Regelmäßige Körper Hydratation";
+"TAP_TO_ENABLE_NOTIF" = "Drücken sie um Benachrichtigungen zu aktivieren";
+"YOUR_WEIGHT_KG" = "Ihr Gewicht (kg):";
+"YOUR_WEIGHT_POUNDS" = "Ihr Gewicht (pounds):";
+"FILL_WEIGHT_AND_WORKOUT" = "Bitte Gewicht und/oder Training eintragen";
+"CHOOSE_VALID_DATE" = "Bitte ein gültiges Datum auswählen";
+"AWAKE_LESS_3_HOURS" = "Sind Sie weniger als 3 Stungen wach?";
+"ERROR" = "Fehler";
+"NOTIF_MORNING" = "Trinken Sie ein Glass Wasser für einen guten Start";
+"NOTIF_LUNCH" = "Trinken Sie ein Glass Wasser vor dem Mittagessen";
+"NOTIF_NIGHT" = "Nicht vergessen ein Glass Wasser zu trinken bevor Sie zu Bett gehen";
+"NOTIF_DEFAULT" = "Es ist Zeit Wasser zu trinken";
+"NOTIF_HEALTH_APP" = "Ihr Hydratationsfortschritt ist in der Health App abgespeichert";
+"DRINK" = "Trinken";  
+"LATER" = "Später";
+"DONATE" = "Spenden";
+"REMOVE_ADS" = "Entfernen Sie anzeigen";
+"RESTORE_PURCHASES" = "Möchten Sie spenden und entfernen Anzeigen?";
+"APP_STORE_ERROR" = "Es gab einen Fehler bei der Verbindung zum AppStore. Keine Transaktion erfolgte.";
+"DONATION" = "Vielen Dank für Ihre Spende!";
+"ADS_DISABLED" = "Anzeigen sind deaktiviert.";
+"CANCEL" = "Abbrechen";

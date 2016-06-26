@@ -1,0 +1,48 @@
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5ME-BB-vHZ"; */
+"5ME-BB-vHZ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Wakeup time:"; ObjectID = "D1E-5h-Q1X"; */
+"D1E-5h-Q1X.text" = "Wakeup time:";
+
+/* Class = "UILabel"; text = "Daily workout (min):"; ObjectID = "LSp-a6-L1s"; */
+"LSp-a6-L1s.text" = "Daily workout (min):";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[0] = "Male"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[0]" = "Male";
+
+/* Class = "UISegmentedControl"; Rj8-U5-5F4.segmentTitles[1] = "Female"; ObjectID = "Rj8-U5-5F4"; */
+"Rj8-U5-5F4.segmentTitles[1]" = "Female";
+
+/* Class = "UILabel"; text = "Lunch time:"; ObjectID = "bFE-3S-6h9"; */
+"bFE-3S-6h9.text" = "Lunch time:";
+
+/* Class = "UILabel"; text = "Sleep time:"; ObjectID = "bkO-rH-VU4"; */
+"bkO-rH-VU4.text" = "Sleep time:";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "f5Y-Jv-b91"; */
+"f5Y-Jv-b91.text" = "Gender:";
+
+/* Class = "UILabel"; text = "Unit system:"; ObjectID = "jNQ-db-DtX"; */
+"jNQ-db-DtX.text" = "Unit system:";
+
+/* Class = "UILabel"; text = "User Information"; ObjectID = "lXO-rt-1F7"; */
+"lXO-rt-1F7.text" = "User Information";
+
+/* Class = "UILabel"; text = "Custom Alerts"; ObjectID = "q6Q-uo-pSU"; */
+"q6Q-uo-pSU.text" = "Custom Alerts";
+
+/* Class = "UILabel"; text = "Your weight (kg):"; ObjectID = "qsl-z6-vGM"; */
+"qsl-z6-vGM.text" = "Your weight (kg):";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "rLD-hc-e5g"; */
+"rLD-hc-e5g.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "s1g-bq-9Mr"; */
+"s1g-bq-9Mr.text" = "Settings";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[0] = "Metric"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[0]" = "Metric";
+
+/* Class = "UISegmentedControl"; uKB-yx-4rp.segmentTitles[1] = "Imperial"; ObjectID = "uKB-yx-4rp"; */
+"uKB-yx-4rp.segmentTitles[1]" = "Imperial";
