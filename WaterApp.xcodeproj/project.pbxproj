@@ -23,7 +23,6 @@
 		804E97501C5C377600470555 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 804E974F1C5C377600470555 /* SettingsViewController.swift */; };
 		804E97521C5E453F00470555 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 804E97511C5E453F00470555 /* Assets.xcassets */; };
 		8056A08B1C6E514D00A84EA5 /* WaterLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8056A08A1C6E514D00A84EA5 /* WaterLogic.swift */; };
-		805FD1341CB401F8004CFF19 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 805FD1331CB401F8004CFF19 /* GoogleService-Info.plist */; };
 		80623CDE1C69F9DD005E14C0 /* DateOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80623CDD1C69F9DD005E14C0 /* DateOperations.swift */; };
 		806C8C7F1C80ADEF00E21E26 /* UIViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 806C8C7E1C80ADEF00E21E26 /* UIViewControllerExtension.swift */; };
 		807D73851C88E1DE007DF6A9 /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807D73841C88E1DE007DF6A9 /* MainScreenViewController.swift */; };
@@ -102,7 +101,6 @@
 		804E974F1C5C377600470555 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		804E97511C5E453F00470555 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8056A08A1C6E514D00A84EA5 /* WaterLogic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterLogic.swift; sourceTree = "<group>"; };
-		805FD1331CB401F8004CFF19 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		80623CDD1C69F9DD005E14C0 /* DateOperations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateOperations.swift; sourceTree = "<group>"; };
 		806C8C7E1C80ADEF00E21E26 /* UIViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerExtension.swift; sourceTree = "<group>"; };
 		807D73841C88E1DE007DF6A9 /* MainScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
@@ -205,7 +203,6 @@
 		800D384F1C57C0F000EEA07F = {
 			isa = PBXGroup;
 			children = (
-				805FD1331CB401F8004CFF19 /* GoogleService-Info.plist */,
 				80A380B61C89E4D30080506B /* WaterApp-Bridging-Header.h */,
 				80E0969B1CAE8CFC005DF06C /* AppLovin */,
 				800D385A1C57C0F000EEA07F /* WaterApp */,
@@ -489,6 +486,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 				fr,
@@ -515,7 +513,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				808ED88F1C8E16B900C7F33D /* MyParticle.sks in Resources */,
-				805FD1341CB401F8004CFF19 /* GoogleService-Info.plist in Resources */,
 				6B67F1591CA1E6C000CA1064 /* UI_v2.storyboard in Resources */,
 				808ED8961C8E38E100C7F33D /* button.wav in Resources */,
 				6B0EC0701C9DBAD5002D4126 /* Localizable.strings in Resources */,

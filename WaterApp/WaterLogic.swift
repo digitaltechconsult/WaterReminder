@@ -123,7 +123,7 @@ class WaterLogic {
      - returns: `WaterLogic` object
      */
     private init() {
-        print("\(NSDate()): \(self.dynamicType):\(#function)")
+        print("\(NSDate()): \(type(of: self)):\(#function)")
         
         //HealthKit
         if #available(iOS 9, *) {

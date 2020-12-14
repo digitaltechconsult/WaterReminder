@@ -1,0 +1,10 @@
+Prio:
+- in-app notification display mechanism
+- UI settings screen: custom input & link with class vars (conversion etc.)
+- extend notification mechanism to more than 1 day (3-10 days)
+
+Opt:
+- Facebook integration
+- achievements
+- health integration
+- apple watch
